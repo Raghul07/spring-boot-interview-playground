@@ -491,6 +491,27 @@ A: Technically yes with `@Autowired`, but constructor injection is the best prac
 
 ---
 
+---
+
+## ⭐ Support the Project
+
+If you find this project useful, please consider giving it a ⭐ on GitHub.
+
+It helps other developers discover the project.
+
+---
+
+## Contributions
+
+Contributions and suggestions are welcome.
+Feel free to open issues or submit pull requests.
+
+---
+
+## Star History
+
+If this project helps you understand Spring better, please give it a star ⭐.
+
 ## 📄 License
 
 This is a learning project for educational purposes.
