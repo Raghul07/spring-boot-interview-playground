@@ -1,4 +1,5 @@
-# 🎓 Spring Boot Interview Playground - Sample Edition
+# 🎓 Spring Boot Interview Playground - Free Sample Project
+
 
 A **simplified Spring Boot 3 Maven project** that demonstrates the two foundational Spring concepts through REST APIs with **detailed logging at every step**.
 
