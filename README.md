@@ -445,6 +445,36 @@ Add Maven to your PATH environment variable, or use the full path to Maven.
 
 ---
 
+## Upcoming Concepts
+
+More concepts will be added in the full version:
+
+• @Qualifier  
+• Bean Scope  
+• @Primary  
+• Lazy Initialization  
+• Spring Profiles  
+• AOP  
+
+---
+
+## Full Version (Coming Soon)
+
+The full version will include:
+
+• 20+ Spring interview concepts  
+• Advanced runnable examples  
+• Detailed explanations  
+
+The full product will be released on **Gumroad**.
+
+---
+
+## Why this project?
+
+Instead of memorizing answers, developers can **experiment and learn Spring concepts by running APIs**.
+
+
 ## ❓ FAQ
 
 **Q: How does Spring know which bean to inject?**
@@ -467,21 +497,3 @@ This is a learning project for educational purposes.
 
 ---
 
-## 🤝 Contributing
-
-Feel free to modify this project for learning purposes!
-
-- Add more endpoints
-- Experiment with different configurations
-- Add more logging
-- Create variations to test your understanding
-
----
-
-## 📞 Support
-
-For detailed explanations of Spring Boot concepts, refer to the comments in the source code. Each method is heavily documented.
-
----
-
-**Happy Learning! 🚀**
