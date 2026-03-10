@@ -1,0 +1,35 @@
+# Build directories
+target/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Maven
+.mvn/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.c9/
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
